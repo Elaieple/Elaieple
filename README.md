@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Mia
+- 👋 Hi, I’m Mia - JavaScript developer
 
