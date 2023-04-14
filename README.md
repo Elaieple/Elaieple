@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Mia - JavaScript developer
+- 👋 Hi, I’m Mia - TypeScript developer
 
